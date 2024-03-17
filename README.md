@@ -3,7 +3,7 @@
 <h3 align="center">Have passion for data analysis and a drive to apply my skills in real-world projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png">
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning & iOS Development**
 
 - 👨‍💻 All of my projects are available at [https://rajeshtriadi14.wixsite.com/data26](https://rajeshtriadi14.wixsite.com/data26)
 
